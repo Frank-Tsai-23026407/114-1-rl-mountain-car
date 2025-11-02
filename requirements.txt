@@ -8,3 +8,4 @@ tensorboard
 imageio
 imageio-ffmpeg
 opencv-python
+pygame

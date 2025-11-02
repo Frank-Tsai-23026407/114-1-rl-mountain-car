@@ -1,0 +1,10 @@
+stable-baselines3
+gymnasium
+torch
+numpy
+pandas
+matplotlib
+tensorboard
+imageio
+imageio-ffmpeg
+opencv-python
